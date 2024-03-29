@@ -1,0 +1,133 @@
+h1 { margin: 15px auto; padding: 0 0 5px 35px; font-size: 1.4em; color: rgb(6,57,104); background: url("../img/icon/icon_head.png") no-repeat 1% 30%;/* background-size: 16px;*/ border-bottom: 1px solid rgb(6,57,104); }
+.area_m { margin: 0; padding: 0 15px 15px 15px; color: rgb(6,57,104); }
+.area_m h2 { margin: 0; padding: 0; font-size: 1.2em; }
+.area_m ol li { margin: 0 0 10px 0; padding: 0; }
+.area_tp { margin: 0; padding: 0 15px 15px 15px; color: rgb(6,57,104); overflow: hidden; }
+.area_tp h2 { margin: 0; padding: 0; font-size: 1.2em; }
+.area_tp ol li { margin: 0 0 10px 0; padding: 0; }
+.area_tp_down { width: 100%; min-height: 420px; margin: 10px auto; padding: 10px 0 0 0; border-top: 1px dashed rgb(6,57,104); position: relative; }
+/* Detail -------------------------------------*/
+.area_tp_detail { margin: 20px 0; padding: 0 15px 15px 15px; color: rgb(6,57,104); }
+.area_tp_detail h2 { margin: 0; padding: 0 0 5px 0; font-size: 1em; border-bottom: 1px dashed rgb(6,57,104); }
+.area_tp_detail .pic_left { margin-right: 5px; width: 270px; float: left; }
+/* Consultant -------------------------------------*/
+.area_cons { margin: 0; padding: 0 15px 15px 15px; color: rgb(6,57,104); }
+.area_cons h2 { width: 100%; margin: 0; padding: 0 0 10px 0; font-size: 1.5em; border-bottom: 1px dashed rgb(6,57,104); text-align:right; }
+.area_cons ol li { margin: 0 0 10px 0; padding: 0; }
+.area_cons_down { width: 100%; margin: 10px auto; padding: 10px 0 0 0; border-top: 1px dashed rgb(6,57,104); position: relative; }
+.area_cons .cons_cont { width: 100%; margin: 0 auto 36px auto; padding: 0; overflow: hidden; }
+.area_cons .pic_left { margin-right: 5px; width: 16%; float: left; }
+.area_cons .pic_left h4 { margin: 0 0 5px 0; padding: 0; font-size: 1.5em; }
+.area_cons .pic_left p { margin: 0; padding: 0; font-size: 1em; line-height: 150%; }
+.area_cons .pic_left img { width: 80%; }
+.cons_txt { width: 79%; margin: 0 0 0 40px; padding: 0; float: left; }
+.consultant-item { position:relative; text-align:center; margin-top:14px; }
+.consultant-item-thum { position:relative; margin-bottom:6px; }
+.consultant-item-name { position:relative; color: #063968; padding: 10px; width: 100%; }
+.consultant-item-name h4 { border-bottom:1px solid #063968; padding-bottom:3px!important; }
+/* Company -------------------------------------*/
+.area_comp { margin: 0; padding: 0 15px 15px 15px; color: rgb(6,57,104); position: relative; }
+.area_comp h2 { width: 100%; margin: 0; padding: 0 0 5px 0; font-size: 1.2em; border-bottom: 1px solid rgb(6,57,104); }
+.area_comp ol li { margin: 0 0 10px 0; padding: 0; }
+.area_comp_down { width: 100%; margin: 10px auto; padding: 10px 0 0 0; border-top: 1px dashed rgb(6,57,104); position: relative; }
+.area_comp .pic_left { margin-right: 5px; width: 220px; float: left; }
+.area_comp .area_comp_left { width: 510px; margin: 0 5px 0 0; padding: 0 15px 15px 15px; color: rgb(6,57,104); position: relative; float: left; }
+.area_comp .area_comp_left h2 { width: 100%; margin: 0; padding: 0 0 5px 0; font-size: 1.2em; border-bottom: 1px solid rgb(6,57,104); }
+.comp_left_in { margin: 10px auto; padding: 0; width: 95%; overflow: hidden; }
+.comp_left_in h3 { width: 100%; margin: 0 0 10px 0; padding: 0 0 5px 0; font-size: 1.0em; border-bottom: 1px dashed rgb(200,200,200); }
+.comp_left_in .comp_txt_left { margin: 0 0 0 15px; padding: 0; color: rgb(6,57,104); }
+.blue { color: rgb(6,57,104); }
+.area_comp .area_comp_left ol { margin: 0 0 0 10px; padding: 0; }
+.area_comp .area_comp_left ol li { margin: 0 0 0 20px; padding: 0; }
+.area_comp .area_comp_left table { margin: 0 0 0 10px; padding: 0; }
+.area_comp .area_comp_left tr td { margin: 0 10px 0 0; padding: 0; }
+.area_comp_right { width: 430px; margin: 0 0 0 5px; padding: 0 15px 15px 15px; color: rgb(6,57,104); position: relative; float: right; }
+.area_comp_right h2 { width: 100%; margin: 0 0 10px 0; padding: 0 0 5px 0; font-size: 1.2em; border-bottom: 1px solid rgb(6,57,104); }
+.map_area { margin: 0 0 15px 0; padding: 0; }
+.etc_area { margin: 0 0 15px 0; padding: 0; clear: both; width: 100%; }
+/* Circle1 -------------------------------------*/
+.area_tp_down .circle1 { width: 288px; height: 288px; position: absolute; top: 15px; left: 0; }
+.area_tp_down .circle1 p { font-size: 1.4em; position: absolute; top: 38%; left: 8%; }
+.area_tp_down .circle1 p a { color: rgb(255,255,255); text-decoration: none; }
+.area_tp_down .circle1 p a:hover { text-decoration: underline; }
+/* Circle2 -------------------------------------*/
+.area_tp_down .circle2 { width: 200px; height: 200px; position: absolute; top: 235px; left: 225px; }
+.area_tp_down .circle2 p { font-size: 1.4em; position: absolute; top: 38%; left: 13%; }
+.area_tp_down .circle2 p a { color: rgb(255,255,255); text-decoration: none; }
+.area_tp_down .circle2 p a:hover { text-decoration: underline; }
+/* Circle3 -------------------------------------*/
+.area_tp_down .circle3 { width: 200px; height: 200px; position: absolute; top: 15px; left: 300px; }
+.area_tp_down .circle3 p { font-size: 1.4em; position: absolute; top: 38%; left: 18%; }
+.area_tp_down .circle3 p a { color: rgb(255,255,255); text-decoration: none; }
+.area_tp_down .circle3 p a:hover { text-decoration: underline; }
+/* Circle4 -------------------------------------*/
+.area_tp_down .circle4 { width: 164px; height: 164px; position: absolute; top: 225px; left: 450px; }
+.area_tp_down .circle4 p { font-size: 1.4em; position: absolute; top: 38%; left: 14%; }
+.area_tp_down .circle4 p a { color: rgb(255,255,255); text-decoration: none; }
+.area_tp_down .circle4 p a:hover { text-decoration: underline; }
+/* Circle5 -------------------------------------*/
+.area_tp_down .circle5 { width: 246px; height: 246px; position: absolute; top: 15px; left: 560px; }
+.area_tp_down .circle5 p { font-size: 1.4em; text-align: center; position: absolute; top: 28%; left: 8%; }
+.area_tp_down .circle5 p a { color: rgb(255,255,255); text-decoration: none; }
+.area_tp_down .circle5 p a:hover { text-decoration: underline; }
+/* Circle6 -------------------------------------*/
+.area_tp_down .circle6 { width: 214px; height: 214px; position: absolute; top: 230px; left: 750px; }
+.area_tp_down .circle6 p { font-size: 1.4em; text-align: center; position: absolute; top: 28%; left: 13%; }
+.area_tp_down .circle6 p a { color: rgb(255,255,255); text-decoration: none; }
+.area_tp_down .circle6 p a:hover { text-decoration: underline; }
+/* BLOG -------------------------------------*/
+.blog-contents { width: 640px; border: 1px solid #D6D6D6; float: left; background:rgba(255,255,255,0.7); }
+.blog-contents img { /*width:100%;height:auto;*/}
+.blog-postarea { padding:15px; }
+.blog-sidebar { width:300px; float:right; }
+.blog-sidebar h4 { color: rgb(6,57,104); margin-bottom:6px; border-bottom: 1px solid rgb(6,57,104); font-size:14px; border-left: 3px solid rgb(6,57,104); padding-left:5px; }
+.blog-sidebar h5 { color: rgb(6,57,104); margin-bottom:0px; font-size:12px; font-weight:normal; border-bottom:1px #ccc dotted; margin-bottom:6px; }
+.blog-sidebar ul { margin:0 0 24px 0; padding:0; }
+.blog-sidebar ul li { list-style-type:none; margin:0; padding:0; background: url("../img/icon/icon_head.png") no-repeat; background-position:left; background-size: 8px; padding-left:12px; }
+.entry-meta { height: 42px; margin-left: -23px; background: url(../img/ribon.png) no-repeat scroll 0% 0% transparent; padding: 5px; color: white; }
+.entry-meta2{ height: 100px; margin-left: -23px; background: url(../img/ribon2.png) no-repeat scroll 0% 0% transparent; padding: 5px; color: white; }
+.entry-meta a ,
+.entry-meta2 a { color:#FFF; }
+.entry-meta h3,
+.entry-meta2 h3 { margin:0; padding:0 0 0 15px; line-height:160%; font-weight:normal; }
+.entry-meta2 {margin-top:-30px;}
+.entry-meta2 h3 {margin-top:30px;}
+.entry-meta-date { font-size:11px; background-image:url(../img/icon-pen.png); background-repeat:no-repeat; background-position:left; text-indent:18px; color:#585858; }
+.entry-block { padding:18px; }
+.readmore { padding-top: 24px; text-align: right; padding-bottom: 0; margin-bottom: 0; }
+/*CSS Sabrosus style pagination*/
+div.pagination { padding:30px; text-align:center; border-top:1px dotted #f1f1f1; }
+div.pagination a { padding: 2px 5px 2px 5px; margin-right: 2px; btext-decoration: none; }
+div.pagination a:hover,
+div.pagination a:active { text-decoration:underline; }
+div.pagination span.current { padding: 2px 5px 2px 5px; margin-right: 2px; font-weight: bold; }
+div.pagination span.disabled { padding: 2px 5px 2px 5px; margin-right: 2px; }
+/* message -------------------------------------*/
+.message-block-left { width:68%; float:left; }
+.message-block-right { width:32%; float:right;
+margin-top:-20px;}
+.consultant-item-matsushita { position:relative; text-align:center; margin-top:0!important; }
+.consultant-item-thum-matsushita { position:relative; margin-bottom:6px;margin-top:0!important; }
+.consultant-item-thum-matsushita img { width:100px; }
+.consultant-item-name-matsushita { position:relative; color: #063968; padding: 10px; width: 100%;margin-top:0!important; }
+.consultant-item-name-matsushita h4 { border-bottom:1px solid #063968; padding-bottom:3px!important; font-size:18px!important; margin-bottom:6px; margin-top:0!important; }
+.message-block-right h3 { width: 100%; margin: 0!important; padding: 0 0 6px 0; font-size: 14px; border-bottom: 1px dashed rgb(6,57,104); }
+.consultant-item-font{font-size:12px;font-weight:normal;}
+
+
+.company_2colums_right{
+	width:50%;
+	float:right;}
+.company_2colums_left{
+width:50%;
+	float:left;	}
+	
+.mliruka{padding-left: 260px;}
+.list-last{list-style-type:none;}
+
+.stamp {
+
+position: absolute;
+margin-top: -25px;
+margin-left: 300px;
+}

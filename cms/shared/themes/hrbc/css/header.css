@@ -1,0 +1,59 @@
+.header {
+	margin: 10px auto;
+	padding: 0;
+	overflow: hidden;
+}
+
+
+.header .logo {
+	width: 420px;
+	height: 50px;
+	text-indent: -3000px;
+	display: block;
+	float: left;
+	/*
+	background: url("../img/h_right.png") no-repeat left top;
+	cursor:pointer;
+	*/
+}
+
+.header .right_area {
+	float: right;
+	padding-right:10px;
+}
+
+.return-top{font-size:12px;
+text-indent:16px;
+color: rgb(6,57,104);
+background: url("../img/icon/icon_head.png") no-repeat 1% 30%;
+background-size: 11px;
+line-height:180%;
+}
+
+
+
+
+
+
+
+
+/*
+.header .logo {
+	width: 140px;
+	height: 50px;
+	display: block;
+	float: left;
+	text-indent: -3000px;
+	background: url("../img/logo.png") no-repeat left top;
+	cursor: pointer;
+}
+
+.header .right_area {
+	width: 420px;
+	height: 50px;
+	text-indent: -3000px;
+	display: block;
+	float: right;
+	background: url("../img/h_right.png") no-repeat left top;
+}
+*/

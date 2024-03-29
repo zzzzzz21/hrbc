@@ -1,0 +1,73 @@
+.area_contact {
+	margin: 0 0 50px 0;
+	padding: 0 15px 15px 15px;
+	color: rgb(6,57,104);
+}
+
+
+.form_area {
+	margin: 0 auto;
+	padding: 0;
+}
+
+.form_area dl {
+	margin: 0 0 5px 0;
+	padding: 0;
+	clear: both;
+	overflow: hidden;
+}
+
+.form_area dt {
+	width: 230px;
+	margin: 0 ;
+	padding: 10px;
+	background: rgb(245,250,255);
+
+	color: rgb(0,0,0);
+	float: left;
+}
+
+.form_area dd {
+	width: 740px;
+	margin: 0 ;
+	padding: 10px;
+	font-size: 0.8em;
+	border-bottom: 1px dashed rgb(200,200,200);
+	float: left;
+	overflow: hidden;
+}
+
+.mf_btn {
+	width: 380px;
+	margin: 0 auto;
+	padding: 20px 0 0 0;
+	overflow: hidden;
+	text-align: center;
+}
+
+.mf_btn input {
+	width: 170px;
+	margin: 0 5px;
+	padding: 5px;
+}
+
+.mf_red {
+	color: red;
+}
+
+.error {
+	width: 100%;
+	margin: 0;
+	padding: 10px 0;
+
+	color: red;
+	border-bottom: 1px dashed rgb(200,200,200);
+	float: left;
+}
+
+.thanks {
+	margin: 0;
+	padding: 10px;
+	font-size: 0.8em;
+	line-height: 150%;
+}
